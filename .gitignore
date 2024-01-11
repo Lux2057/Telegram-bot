@@ -1,0 +1,10 @@
+*.DotSettings
+*.cache
+*.user
+*.v2
+
+obj/
+bin/
+.vs/
+
+appsettings.json

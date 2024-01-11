@@ -1,0 +1,8 @@
+{
+        "profiles" : {
+                "TelegramBot.App" : {
+                        "commandName" : "Project",
+                        "launchBrowser" : false
+                    }
+            }
+    }
